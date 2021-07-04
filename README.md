@@ -10,9 +10,10 @@
 3. vscode + ssh remote to 計中
 
 ## 下午:
-4. Introduce vocode git extentions
+4. Introduce vscode git extentions
 
-5. Use cloned file to introduce linux command
+5. Introduce linux command \
+   LinuxCommand.ipynb
 
 6. PBS
 

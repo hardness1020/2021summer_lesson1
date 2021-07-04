@@ -12,11 +12,10 @@
 ## 下午:
 4. Introduce vscode git extentions
 
-5. Introduce linux command \
-   LinuxCommand.ipynb
+5. Introduce linux command
 
-6. PBS
+6. Introduce PBS
 
-7. Docker
+7. Introduce Docker
 
 8. Explain homework

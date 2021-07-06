@@ -1,2 +1,13 @@
-Please find findme. in HW directory.
-Unzip findme. and do what it said in the file.
+Homework1:
+Please find findme.tar.gz in the HW directory.
+Unzip findme.tar.gz and do what it said in the file.
+
+
+Note:
+1. The deadline for hw1 is 7/13 at 23:59. If you complete the homework correctly, you will get a full grade.
+2. The deadline for corrected hw1 is 7/20 at 23:59. If you complete the homework correctly in this stage, you will get 80% of the full grade.
+3. If you complete the homework correctly before the last lesson, you will get 60% of the full grade.
+4. There are many ways to complete the homework, just finish what it said in find.tar.gz.
+5. You can learn some Linux commands in this Hw. Try not to copy others' answers.
+6. You can check your answer at https://github.com/hardness1020/2021summer_lesson1/pulls
+7. If there are any questions, please send an email to b06611036@ntu.edu.tw

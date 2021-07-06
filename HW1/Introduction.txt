@@ -1,2 +1,2 @@
 Please find findme. in HW directory.
-Unzip findme.  and do what it said in the file.
+Unzip findme. and do what it said in the file.

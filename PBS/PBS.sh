@@ -1,7 +1,15 @@
 #!/bin/bash
+
+### queue name
 #PBS -q large
+
+### job name
 #PBS -N your_job_name
+
+### set number of nodes
 #PBS -l walltime=500:00:00,nodes=1:ppn=8
+
+### error and output to certain files
 #PBS -e /home/hpc/cychen/user/linnil1/pbslog.e.txt
 #PBS -o /home/hpc/cychen/user/linnil1/pbslog.o.txt
 

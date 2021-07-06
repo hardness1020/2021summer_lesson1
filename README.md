@@ -12,7 +12,7 @@
 ## 下午:
 4. Introduce vscode git extentions
 
-5. Introduce linux commands2222
+5. Introduce linux commands
 
 6. Introduce PBS
 

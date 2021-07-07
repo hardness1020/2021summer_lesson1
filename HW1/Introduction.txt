@@ -1,4 +1,5 @@
 Homework1:
+There are a findme.tar.gz and many notme.txt in HW directory.
 Please find findme.tar.gz in the HW directory.
 Unzip findme.tar.gz and do what it said in the file.
 

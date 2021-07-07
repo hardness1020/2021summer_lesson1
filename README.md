@@ -1,9 +1,10 @@
 # 2021summer_lesson1
 ## 早上:
-1. Install vscode  or  ubuntu + WSL + vscode \
+1. Install VPN + vscode or VPN + ubuntu + WSL + vscode \
    vscode: https://code.visualstudio.com/ \
    ubuntu+WSL: https://docs.microsoft.com/zh-tw/windows/wsl/install-win10 \
    github: https://github.com/
+   VPN: https://ccnet.ntu.edu.tw/vpn/
 
 2. Introduce vscode
 

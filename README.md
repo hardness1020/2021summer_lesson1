@@ -3,7 +3,7 @@
 1. Install VPN + vscode or VPN + ubuntu + WSL + vscode \
    vscode: https://code.visualstudio.com/ \
    ubuntu+WSL: https://docs.microsoft.com/zh-tw/windows/wsl/install-win10 \
-   github: https://github.com/
+   github: https://github.com/ \
    VPN: https://ccnet.ntu.edu.tw/vpn/
 
 2. Introduce vscode

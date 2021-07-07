@@ -1,9 +1,9 @@
 # 2021summer_lesson1
 ## 早上:
-1. Install vscode  or  ubuntu + WSL + git + vscode \
+1. Install vscode  or  ubuntu + WSL + vscode \
    vscode: https://code.visualstudio.com/ \
    ubuntu+WSL: https://docs.microsoft.com/zh-tw/windows/wsl/install-win10 \
-   git: apt-get install git
+   github: https://github.com/
 
 2. Introduce vscode
 

@@ -7,7 +7,7 @@
 
 2. Introduce vscode
 
-3. vscode + ssh remote to 計中
+3. vscode + ssh remote to Linux system
 
 ## 下午:
 4. Introduce vscode git extentions

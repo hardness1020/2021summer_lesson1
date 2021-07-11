@@ -1,0 +1,4 @@
+./HW/1/1/2/findme.tar.gz
+
+find > find.txt
+less find.txt 可以看到路徑

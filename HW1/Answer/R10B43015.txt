@@ -1,0 +1,5 @@
+find . -name "findme.tar.gz"
+./HW1/HW/1/1/2/findme.tar.gz        # file Path
+sudo apt install unzip
+cd 1/1/2
+tar zxvf findme.tar.gz

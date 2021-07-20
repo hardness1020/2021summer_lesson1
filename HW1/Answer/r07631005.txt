@@ -1,0 +1,7 @@
+Problem:
+1. Please create a file named {yourStudentID}.txt (e.g. b06611036.txt) at /2021summer_lesson1/HW1/Answer
+3. Record the file Path of findme.tar.gz in {yourStudentID}.txt. (e.g. /home/xxxxx/2021summer_lesson1/HW1/HW/2/3/4/findme.tar.gz)
+3. Send a pull request which only contains {yourStudentID}.txt at /2021summer_lesson1/HW1/Answer
+
+Ans:
+/mnt/d/NTU/111/hw1/2021summer_lesson1/HW1/HW/1/1/2/findme.tar.gz

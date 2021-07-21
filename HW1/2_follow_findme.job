@@ -1,0 +1,3 @@
+#!/bin/bash
+[ -d Answer ] || mkdir Answer
+find ~ -name findme.tar.gz > Answer/f06b22037.txt

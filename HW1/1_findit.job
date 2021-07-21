@@ -1,0 +1,2 @@
+#!/bin/bash 
+find . -name findme.tar.gz -print0 | xargs -0 -n 1 -I {} tar -C . -zxvf {}
